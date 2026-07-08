@@ -4,4 +4,4 @@ numpy==2.2.6
 pandas
 Pillow
 matplotlib
-plotly.express
+plotly
