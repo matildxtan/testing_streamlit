@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+segmented_images/
+results.csv
+
+# Ignore zip backups
+*.zip
+
+# Ignore test images if not needed
+googleduckweed.jpg
+
+token.pickle
+credentials.json
+
+# Ignore all JPG image files
+*.jpg
+*.JPG
